@@ -22,11 +22,11 @@ I believe a great developer doesn't just write code; they design systems. I am c
 
 ---
 
-### 📊 GitHub Activity
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Nixori17&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixori17&layout=compact&theme=radical)
-
----
+### 📊 GitHub Metrics
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 📫 Get in Touch
 * **Email:** [nixori17@gmail.com](mailto:nixori17@gmail.com)
