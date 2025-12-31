@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Wazid
 
-**Full-Stack Developer | Software Architect in Training | Founder**
+**Full-Stack Developer | Software Architect in Training**
 
 I am a 16-year-old developer from Bangladesh. While I started my journey mastering frontend animations, I am currently focused on **Software Architecture**—building scalable, secure, and performant full-stack applications. 
 
@@ -23,8 +23,8 @@ I believe a great developer doesn't just write code; they design systems. I am c
 ---
 
 ### 📊 GitHub Activity
-![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nixori17&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixori17&layout=compact&theme=dark&hide_border=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Nixori17&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixori17&layout=compact&theme=radical)
 
 ---
 
