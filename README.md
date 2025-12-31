@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Abdul Wazid
 
-<!--
-**Nixori17/Nixori17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer | React.js & Animation Specialist**
 
-Here are some ideas to get you started:
+I am a 16-year-old developer from Bangladesh focused on crafting high-performance, visually stunning user interfaces. I bridge the gap between design and code using modern frontend tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 What I'm currently working on:
+* ✨ Mastering complex orchestration in **GSAP** and **Framer Motion**.
+* 🏗️ Building scalable architectures with **React.js**.
+* 🎨 Refining my eye for **UI/UX Design**.
+
+### 🛠️ Tech Stack:
+* **Core:** JavaScript (ES6+), React.js, HTML5, CSS3
+* **Styling:** Tailwind CSS, SCSS, clsx/tailwind-merge
+* **Animation:** GSAP, Framer Motion
+* **Tools:** Git, GitHub, VS Code, Vercel/Netlify
+
+---
+
+### 📈 My Stats:
+![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nixori17&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nixori17&layout=compact&theme=radical)
+
+---
+
+### 🤝 Let's Connect:
+* **LinkedIn:** [linkedin.com/in/abdul-wazid-274223307](https://www.linkedin.com/in/abdul-wazid-274223307)
+* **Portfolio:** [Link to your portfolio site if you have one]
+* **Email:** [Your Email Address]
+
+> "The details are not the details. They make the design." – Charles Eames
